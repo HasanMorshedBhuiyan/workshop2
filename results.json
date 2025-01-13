@@ -1,0 +1,1 @@
+{"STUDENT": "Hasan Bhuiyan", "KEY": "c0fb622d262d46b4ba220bead001fbd2", "HOST": "http://127.0.0.1:8000", "WORKSHOP": "2", "POST_PAYLOAD": {"POST": false}, "POST_HASH": -7416854220395559816, "GET_PAYLOAD": {"GET": false}, "GET_HASH": -8054681914185758873, "RESPONSE_CODE": 0, "ERROR": "[WinError 10061] No connection could be made because the target machine actively refused it"}
